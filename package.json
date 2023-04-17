@@ -35,7 +35,7 @@
     "dotenv": "^16.0.0"
   },
   "devDependencies": {
-    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts": "^4.8.3",
     "@openzeppelin/test-helpers": "^0.5.15",
     "cspell": "^5.19.2",
     "eslint": "^8.11.0",
